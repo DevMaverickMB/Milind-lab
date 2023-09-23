@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milind Bhushan
 - 👀 I’m interested in Making new softwares
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java, NodeJs
 - 💞️ I’m looking to collaborate on any projects
 - 📫 Way to reach me @milindbhushan007@gmail.com
 
